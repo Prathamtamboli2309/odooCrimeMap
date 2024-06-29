@@ -2,7 +2,7 @@
 
 Welcome to *Crime Watch*, a full-stack web application designed for real-time crime reporting and visualization. This platform enables users to report crimes, view reports on an interactive map, and stay informed about crime patterns in their area.
 
-![Crime Watch](public/background.jpg)
+![Crime Watch](3599743.jpg)
 
 ## 📋 Table of Contents
 - [Features](#features)
